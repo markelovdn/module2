@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+
+  "require": {
+    "aura/sqlquery": "2.7.1",
+  }
+}
