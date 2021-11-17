@@ -14,9 +14,3 @@ $qb->create('post', [
 $qb->update('post', [
     'title' => 'new update title'
 ], 2);
-$qb->delete('post', 15);
-
-echo "<pre>";
-
-var_dump($getall);
-var_dump($getOne);

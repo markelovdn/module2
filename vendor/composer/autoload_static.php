@@ -11,6 +11,10 @@ class ComposerStaticInit041d78ab78e910bbdfbe47fa127a5fc3
         array (
             'src\\' => 4,
         ),
+        'L' => 
+        array (
+            'League\\Plates\\' => 14,
+        ),
         'A' => 
         array (
             'Aura\\SqlQuery\\' => 14,
@@ -21,6 +25,10 @@ class ComposerStaticInit041d78ab78e910bbdfbe47fa127a5fc3
         'src\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'League\\Plates\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/league/plates/src',
         ),
         'Aura\\SqlQuery\\' => 
         array (
